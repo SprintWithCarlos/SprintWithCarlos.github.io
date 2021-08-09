@@ -16,6 +16,8 @@ is integrated into my professional activity and facilitates the generation of so
 Come into my [classroom](https://whereby.com/sprintwithcarlos) and knock to request access. If I don't answer you, leave me a message on [telegram](https://msng.link/o/?sprintwithcarlos=tg). The first 15 minutes are free, then € 15 per hour upon payment via [paypal](http://paypal.me/sprintwithcarlos).
 
 # Some of my certificacions
+\> Kaggle
+[![](./assets/img/kaggle-python.png)](https://www.kaggle.com/learn/certification/cmarchena/python )
 
 \> Near Protocol
 [![](./assets/img/near.png)](https://near.academy/certificate/sprintwithcarlos)

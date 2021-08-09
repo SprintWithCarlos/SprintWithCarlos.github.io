@@ -15,8 +15,10 @@ Entra en mi [aula](https://whereby.com/sprintwithcarlos) y tocar para solicitar 
 
 # Algunas de mis certificaciones
 
+\> Kaggle
+[![](../assets/img/kaggle-python.png)](https://www.kaggle.com/learn/certification/cmarchena/python )
 \> Near Protocol
-[![](./assets/img/near.png)](https://near.academy/certificate/sprintwithcarlos)
+[![](../assets/img/near.png)](https://near.academy/certificate/sprintwithcarlos)
 
 \> Udacity
 [![](../assets/img/udacity-mws.png)](https://confirm.udacity.com/QHWKWWZ9)
