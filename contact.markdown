@@ -18,6 +18,9 @@ Come into my [classroom](https://whereby.com/sprintwithcarlos) and knock to requ
 # Some of my certificacions
 \> Kaggle
 [![](./assets/img/kaggle-python.png)](https://www.kaggle.com/learn/certification/cmarchena/python )
+[![](./assets/img/kaggle.png)](https://www.kaggle.com/learn/certification/cmarchena/intro-to-machine-learning  ))
+[![](./assets/img/kaggle-2.png)](https://www.kaggle.com/learn/certification/cmarchena/intermediate-machine-learning ))
+
 
 \> Near Protocol
 [![](./assets/img/near.png)](https://near.academy/certificate/sprintwithcarlos)

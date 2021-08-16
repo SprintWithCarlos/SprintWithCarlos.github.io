@@ -54,7 +54,7 @@ Example:
 Once you got this data the extract stage is completed.
 
 
-## Carga
+## Load
 Load means validate the data to ensure quality.
 We will create a function to which we will pass a data frame as parameter to check:
 * If dataframe is empty
