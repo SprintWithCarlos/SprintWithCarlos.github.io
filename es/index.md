@@ -12,6 +12,7 @@ layout: page
 <ul>
   <li><a href="https://www.superprof.es/promocion-3x2-dia-reyes-primer-paso-mundo-los-datos-con-python-data-analyst-engineer-scientist-para.html">Promoción 3X2 en clases de Python/R, válida hasta el 5 de enero de 2023</li>
 </ul>
+
 # Blog
 
 <ul>
@@ -21,6 +22,7 @@ layout: page
     </li>
   {% endfor %}
 </ul>
+
 # Documentos
 
 &#128073; [Blockchain: Aspectos Jurídicos](/blockchain-juridico/)
