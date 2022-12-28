@@ -9,9 +9,7 @@ layout: page
 
 # Promociones  
 
-<ul>
-  <li><a href="https://www.superprof.es/promocion-3x2-dia-reyes-primer-paso-mundo-los-datos-con-python-data-analyst-engineer-scientist-para.html">Promoción 3X2 en clases de Python/R, válida hasta el 5 de enero de 2023</a></li>
-</ul>
+[Promoción 3X2 en clases de Python/R, válida hasta el 5 de enero de 2023]("https://www.superprof.es/promocion-3x2-dia-reyes-primer-paso-mundo-los-datos-con-python-data-analyst-engineer-scientist-para.html")
 
 # Blog
 
